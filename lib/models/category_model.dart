@@ -6,5 +6,6 @@ final Map<int, List<String>> categoryModules = {
   35278: ['ww2','sanpham','module'],
   35283: ['ww2','sanpham','module'],  
   35280: ['ww2','sanpham','module'],
+  35281: ['ww2','tintuc','module'],
   35028: ['','lienhe','module'],
 };
